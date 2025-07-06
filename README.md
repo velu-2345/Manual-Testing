@@ -1,7 +1,7 @@
 Manual Testing (OpenCart)
 # 📋 OpenCart Manual Testing Documentation
 
-This repository contains the **manual testing documentation** for the **OpenCart Frontend** project. It includes the **Functional Requirement Specification (FRS)**, **Requirement Traceability Matrix (RTM)**, and **Test Scenarios** to ensure the quality of the e-commerce application.
+This repository contains the **manual testing documentation** for the **OpenCart Frontend** project. It includes the **Functional Requirement Specification (FRS)**, **Requirement Traceability Matrix (RTM)**, **Test Scenarios** and **Test Cases** to ensure the quality of the e-commerce application.
 
 ---
 
