@@ -8,12 +8,19 @@ This repository contains the **manual testing documentation** for the **OpenCart
 ## 📁 Project Structure
 
 /manual-testing/
+
 ├── FRS(OpenCart).pdf # Functional Requirement Specification
+
 ├── RTM (Opencart).xlsx # Requirement Traceability Matrix
+
 ├── OpenCart-Test Scenarios.xlsx # Test Scenarios and Test Cases
+
 |—— Test cases (Open Cart ).xlsx
+
 |—— Test Execution (Open Cart ).xlsx
+
 └── README.md # Project overview and documentation
+
 
 
 ---
@@ -34,7 +41,7 @@ This repository contains the **manual testing documentation** for the **OpenCart
 - Maps requirements from FRS to test cases.
 - Ensures all features are covered in testing.
 
-### 3. Test Scenarios 
+### 3. Test Scenarios and Test Cases
 - Contains detailed test cases for:
   - Home Page UI Testing
   - Product Listing & Details
